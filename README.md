@@ -1,5 +1,5 @@
 # WP-Plugins
-WP Plugins : Plugin wordpress perso-mime-types
+<h3>WP Plugins : Plugin wordpress perso-mime-types</h3>
 
 Simple plugin permettant d'interdire l'upload de tous les documents par défaut et de n'uploader que ceux définit par l'admin du site.
 
