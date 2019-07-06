@@ -5,5 +5,6 @@ Simple plugin permettant d'interdire l'upload de tous les documents par défaut 
 
 A installer dans le répertoire de plugins
 Par exemple
-cat  /var/www/wordpress__2/wp-content/plugins/perso-mime-type/perso-mime-type.php
+
+<code>cat  /var/www/wordpress__2/wp-content/plugins/perso-mime-type/perso-mime-type.php</code>
 
